@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+output/
+*.log
+runs/
+data/
+checkpoints/
+models/qwen/
+.idea/
+.ipynb_checkpoints/
+scratch/
+*.tmp
