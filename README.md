@@ -1,10 +1,15 @@
 # Autonomous Neuro-Symbolic Agent for Cardiotocography (CTG) Fetal Assessment
 
+[![Project Status](https://img.shields.io/badge/Status-Active%20%2F%20In%20Development-orange.svg)](https://github.com/Prajin-K/agentic-CTG-fetal-assessment)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2Bcu124-red.svg)](https://pytorch.org/)
 [![Qwen2.5](https://img.shields.io/badge/LLM-Qwen2.5--1.5B--Instruct-purple.svg)](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
 [![Clinical Guidelines](https://img.shields.io/badge/Guidelines-FIGO%202015-green.svg)](https://www.obgyn.net/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey.svg)](LICENSE)
+
+> [!NOTE]
+> **Project Status: Active / Ongoing Research & Development** 🚧  
+> This project is actively being developed as part of the Cardiotocography Fetal Well-being Assessment Challenge and towards a journal submission. We are currently implementing the 4-phase neuro-symbolic agent pipeline (Phase 1: EDA & Signal Foundations completed; Phase 2: Morphological Segmentation & Neuro-Symbolic Reasoning in progress).
 
 An autonomous neuro-symbolic AI agent framework for multimodal **Cardiotocography (CTG)** fetal well-being assessment: reconstructing FHR from Doppler ultrasound, segmenting FIGO morphological events, predicting hypoxic risk, and generating grounded, verifiable clinical reports.
 
